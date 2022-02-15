@@ -1,4 +1,0 @@
-﻿C:\dev-personal\double-entry-exploring\src\DoubleEntry.Broker\BaseEvent.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Broker\EventBroker.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Broker\IEventBroker.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Broker\IEventBrokerRepository.cs

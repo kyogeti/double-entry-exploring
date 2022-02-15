@@ -1,3 +1,0 @@
-﻿C:\dev-personal\double-entry-exploring\src\DoubleEntry.Common\Exceptions\DuplicatedEventException.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Common\Extensions\AccountExtensions.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Common\Extensions\StringExtensions.cs

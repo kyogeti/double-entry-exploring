@@ -1,3 +1,0 @@
-﻿C:\dev-personal\double-entry-exploring\src\DoubleEntry.Domain\Entities\Account.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Domain\Entities\BaseEntity.cs
-C:\dev-personal\double-entry-exploring\src\DoubleEntry.Domain\Entities\Entry.cs
