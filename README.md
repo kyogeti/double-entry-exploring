@@ -3,4 +3,4 @@
 [work in progress]
 
 
-(https://docs.sonarqube.org/latest/setup/get-started-2-minutes/)sonarqube tutorial
+(sonarqube tutorial)[https://docs.sonarqube.org/latest/setup/get-started-2-minutes/]
