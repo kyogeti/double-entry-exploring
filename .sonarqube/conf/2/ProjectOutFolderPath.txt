@@ -1,0 +1,1 @@
+C:\dev-personal\double-entry-exploring\.sonarqube\out\2

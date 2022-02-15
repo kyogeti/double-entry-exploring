@@ -1,0 +1,1 @@
+Roslyn version: 4.0.0.0Language version: CSharp9"Concurrent execution: disabled¡œFile 'C:\dev-personal\double-entry-exploring\src\DoubleEntry.Repository\obj\Debug\net5.0\DoubleEntry.Repository.AssemblyInfo.cs' was recognized as generated
