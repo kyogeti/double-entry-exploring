@@ -72,7 +72,7 @@ namespace DoubleEntry.UnitTests.Domain
             entity.Code.Should().NotBeNullOrEmpty();
         }
 
-        private void AssertAccountBalanceValue(List<Entry> entries, decimal expectedResult)
+        private static void AssertAccountBalanceValue(List<Entry> entries, decimal expectedResult)
         {
             var account = new Account(GenericString, GenericString)
             {
@@ -85,7 +85,7 @@ namespace DoubleEntry.UnitTests.Domain
                 .Be(expectedResult);
         }
 
-        private void AssertAccountFormattedBalanceValue(List<Entry> entries, string expectedResult)
+        private static void AssertAccountFormattedBalanceValue(List<Entry> entries, string expectedResult)
         {
             var account = new Account(GenericString, GenericString)
             {
@@ -139,7 +139,7 @@ namespace DoubleEntry.UnitTests.Domain
             return entries;
         }
 
-        private string GetDescription(decimal amount, int index) => $"Entry number {index} of value {amount}";
+        private static string GetDescription(decimal amount, int index) => $"Entry number {index} of value {amount}";
         
     }
 }
